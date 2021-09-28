@@ -73,7 +73,6 @@ public class TetrisClone extends JPanel {
 			}
 	};
 	
-	//private final Color tetraminoColors = new Color(51, 255, 153); test color
 	private final Color[] tetraminoColors = {Color.CYAN, Color.BLUE, Color.ORANGE, Color.YELLOW, Color.GREEN, Color.PINK, Color.RED};
 	private Point pieceOrigin;
 	private int currentPiece;
